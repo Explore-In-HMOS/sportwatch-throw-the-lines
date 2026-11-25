@@ -1,5 +1,7 @@
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
+> **Known issue:** This app renders its UI with the Canvas component. It has been tested and runs as expected on the SportWatch emulator, but Canvas rendering does not work reliably on physical SportWatch devices.
+
 # Throw the Lines
 
 Throw the Lines is a demo game app that challenges users to carefully place balls on a rotating circle without hitting existing ones. It includes classic and advanced game modes and guides you step‑by‑step through levels. Using Sensor Kit, assist with timing and control for a more precise gameplay experience.
